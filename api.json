@@ -1,0 +1,48 @@
+{
+  "category": "CRYPTID",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/orang-gadang",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "orang-gadang",
+    "name": "Orang Gadang",
+    "aliases": [
+      {
+        "name": "Big Person"
+      },
+      {
+        "name": "Sumatra Giant"
+      },
+      {
+        "name": "Forest Giant"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Giant",
+    "tags": [
+      "cryptid",
+      "humanoid",
+      "undiscovered",
+      "sightings"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Indonesian giant humanoid cryptid reported in Sumatra's forests",
+      "full": "Indonesian giant humanoid cryptid reported in Sumatra's forests"
+    }
+  }
+}
