@@ -1,321 +1,137 @@
 # Orang Gadang
 
-> *"Legends born from the shadows of reality"*
+> A giant humanoid cryptid reported from the forests of Sumatra, Indonesia, described as standing 7.5–12 feet tall, covered in dark bushy hair, and leaving very large footprints; sometimes called the Sumatran Bigfoot.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-CRYPTID-purple)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-5-orange)]() ![Status](https://img.shields.io/badge/status-unverified-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `orang-gadang` |
 | **Category** | CRYPTID |
-| **Classification** | Giant |
-| **Primary Region** | Indonesia |
-| **Cultural Origin** | Indonesian |
-| **Status** | Documented |
+| **Subcategory** | Giant humanoid cryptid / Sumatran Bigfoot |
+| **First recorded** | 1375-01-01 |
+| **Primary range** | Reported from Sumatra, Indonesia, particularly the Rokan area of Riau province |
+| **Status** | unverified |
 
 ---
-
 ## Overview
 
-Indonesian giant humanoid cryptid reported in Sumatra's forests
-
-This phenomenon represents an important part of Indonesian folklore and cultural heritage, with documented accounts and traditions spanning generations.
+The Orang Gadang ('large person' in Malay/Indonesian) is a giant humanoid cryptid reported from the forests of Sumatra, particularly the Rokan area of Riau province. Local reports describe a bipedal creature 7.5–12 feet (approximately 2.3–3.7 meters) tall, covered in dark hair. In contrast to the much smaller orang-pendek (a separate Sumatran cryptid standing under 1.5 meters), the Orang Gadang is a genuinely giant figure. Footprints attributed to the creature have been found in the Rokan area, described as approximately 2 feet (61 cm) long and 8 inches (20 cm) wide with an unusually large big toe. Behavioral reports describe the creature as shy, nocturnal, and omnivorous — exploring campsites after dark, leaving behind large humanoid footprints, emitting unusual whistling sounds, and hurling stones from concealed positions. A possible historical reference appears in the 1375 Catalan Atlas of Abraham Cresques, which described burly men in the mountains of Sumatra twelve cubits (approximately 5.5 meters / 18 feet) in height, like giants. No specimen, photograph, or verified physical evidence has been confirmed. The Orang Gadang is distinct from and much larger than the orang-pendek.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Orang Besar | Malay/Indonesian / Sumatra, Indonesia | Large person / giant person |
 
-### Primary Name
-- **Orang Gadang** — Sumatra, Indonesia
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Notes |
-|------|-----------------|-------|
-| Big Person | Indonesia | Traditional name |
-| Sumatra Giant | Indonesia | Traditional name |
-| Forest Giant | Indonesia | Traditional name |
+- **Origin**: From Malay/Indonesian orang (person, people) and gadang (large, big). The name is a straightforward description: 'large person' or 'giant person.'
+- **Meaning**: Large/giant person
+- **First use**: Modern cryptozoological literature; possible historical reference in the 1375 Catalan Atlas
 
 ---
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Giant
-└── Origin: Indonesian
-```
-
----
-
-## Characteristics
-
-### Description
-
-Indonesian giant humanoid cryptid reported in Sumatra's forests
-
-### Cultural Significance
-
-This entity holds significant meaning within Indonesian culture and tradition. The phenomenon reflects deep cultural values and ancestral knowledge passed down through generations.
-
----
-
-## Distribution
-
-### Geographic Range
-
-**Primary Region:** Indonesia
-
-The phenomenon is primarily reported in Indonesia, with strongest traditions in Indonesian communities.
-
-### Cultural Context
-
-- **Origin Culture:** Indonesian
-- **Geographic Focus:** Indonesia
-- **Traditional Knowledge:** Passed through oral tradition
-- **Modern Status:** Still acknowledged in local folklore
-
----
-
-## History
-
-### Origins
-
-The Orang Gadang originates from Indonesian tradition in Indonesia. Stories and accounts have been passed down through generations, maintaining cultural significance.
-
-### Historical Timeline
-
-**Traditional Era (Pre-modern)**
-- Oral traditions establish phenomenon in cultural consciousness
-- Stories serve educational and cautionary purposes
-- Integrated into community belief systems
-
-**Colonial Period**
-- First documentation by outside observers
-- Cultural practices continue despite external pressures
-- Traditions maintained in local communities
-
-**Modern Era (20th-21st Century)**
-- Academic documentation and study
-- Cultural revival and preservation efforts
-- Continued relevance in contemporary society
-
----
-
-## Accounts & Encounters
-
-### Traditional Accounts
-
-The Orang Gadang features prominently in Indonesian folklore, with numerous traditional accounts passed through oral tradition. These stories serve important cultural functions including:
-
-- Moral instruction
-- Cultural identity preservation
-- Explanation of natural phenomena
-- Social cohesion
-
-### Contemporary Reports
-
-Modern accounts continue to emerge from Indonesia, suggesting ongoing cultural relevance and possibly genuine unexplained experiences.
-
----
-
-## Evidence & Documentation
-
-### Folklore Documentation
-
-- Oral traditions collected by anthropologists
-- Written accounts from cultural practitioners
-- Academic studies of Indonesian belief systems
-- Comparative folklore analysis
-
-### Cultural Artifacts
-
-- Traditional art depicting the phenomenon
-- Ceremonial objects related to protection or invocation
-- Place names and geographic features
-- Cultural practices and rituals
-
----
-
-## Theories & Interpretations
-
-### Cultural Perspective
-
-From within Indonesian tradition, the Orang Gadang represents:
-- Legitimate spiritual/supernatural reality
-- Important cultural knowledge
-- Connection to ancestral wisdom
-- Part of living tradition
-
-### Academic Analysis
-
-Scholars approach the phenomenon from multiple angles:
-- **Anthropological:** Cultural function and meaning
-- **Folkloric:** Story patterns and transmission
-- **Psychological:** Cognitive and social factors
-- **Historical:** Development and evolution of belief
-
-### Skeptical Viewpoint
-
-Skeptics often attribute accounts to:
-- Cultural conditioning and belief systems
-- Misidentification of natural phenomena
-- Psychological factors including suggestion
-- Social reinforcement of traditional narratives
-
----
-
-## Cultural Impact
-
-### Traditional Role
-
-In Indonesian culture, the Orang Gadang:
-- Serves educational purposes
-- Reinforces cultural values
-- Maintains connection to heritage
-- Provides framework for understanding the world
-
-### Modern Influence
-
-**Academic Interest:**
-- Subject of anthropological study
-- Folklore documentation projects
-- Cultural preservation initiatives
-- Comparative mythology research
-
-**Popular Culture:**
-- Featured in regional tourism
-- Depicted in local art and media
-- Subject of cultural festivals
-- Educational programs
-
-**Cultural Preservation:**
-- Efforts to document traditional knowledge
-- Integration into cultural education
-- Protection of sacred sites and practices
-- Respect for traditional beliefs
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Scholars from various disciplines have studied the Orang Gadang phenomenon:
-
-- Anthropologists documenting cultural beliefs
-- Folklorists analyzing narrative structures
-- Historians tracing development of traditions
-- Sociologists examining cultural functions
-
-### Cultural Authorities
-
-Traditional knowledge holders and cultural practitioners maintain the most authoritative understanding of the phenomenon within its original cultural context.
-
-### Ongoing Documentation
-
-Current efforts focus on:
-- Recording oral traditions before they are lost
-- Respectful academic documentation
-- Cultural preservation programs
-- Community-led research initiatives
-
----
-
-## Cultural Sensitivity & Respect
-
-### Important Considerations
-
-When engaging with this phenomenon:
-
-- **Respect Cultural Origins:** Recognize this as living cultural tradition
-- **Avoid Appropriation:** Do not remove from cultural context
-- **Consult Communities:** Seek permission and guidance from cultural authorities
-- **Accurate Representation:** Present information respectfully and accurately
-- **Support Preservation:** Contribute to cultural preservation efforts
-
-### Guidelines for Researchers
-
-- Work collaboratively with communities
-- Obtain proper permissions
-- Share findings with source communities
-- Respect restrictions on sacred knowledge
-- Provide fair compensation and credit
-
----
-
 ## Related Phenomena
 
-### Similar Entities
-
-- [Bigfoot](/bigfoot) - North American cryptid hominid
-- [Yeti](/yeti) - Himalayan wildman
-- [Orang Pendek](/orang-pendek) - Sumatran forest dweller
-
----
-
-## Sources & Further Reading
-
-See [SOURCES.md](./SOURCES.md) for complete bibliography and references.
-
-### Recommended Starting Points
-
-- Academic studies of Indonesian folklore
-- Anthropological surveys of Indonesia
-- Cultural documentation projects
-- Traditional oral histories (where accessible)
+- [Orang Pendek](../orang-pendek/) — _related_: Much smaller (under 1.5 m) Sumatran bipedal cryptid; distinct from Orang Gadang
+- [Bigfoot / Sasquatch](../bigfoot/) — _similar_: North American large hairy bipedal cryptid; cross-cultural parallel
+- [Yeti](../yeti/) — _similar_: Himalayan hairy hominid cryptid; cross-cultural parallel
+- [Orang Dalam / Orang Mawas](../orang-dalam/) — _similar_: Malaysian giant hominid cryptid; closely related tradition
 
 ---
+## Physical Description
 
-## Contribution Guidelines
+- **Height**: 2.3–3.7 meters _(low confidence)_
+- **Coloration**: dark hair, dark brown, black
+- **Morphology**: A giant bipedal hominid with proportions broadly resembling a very large human or great ape. The reported foot size (61 cm) far exceeds human norms and is substantially larger than reported Bigfoot footprints in North America.
 
-This documentation is part of the Wyrdness project to preserve and present paranormal and folkloric phenomena respectfully.
+### Features
 
-### How to Contribute
+| Feature | Description | Frequency |
+|---|---|---|
+| Dark bushy hair | Body covered in dark, bushy hair | always |
+| Bipedal locomotion | Walks upright on two legs | always |
+| Very large feet | Footprints reported approximately 61 cm (24 inches) long and 20 cm (8 inches) wide with an unusually large big toe | always |
+| Giant stature | Substantially taller than a human; estimated 7.5–12 feet (2.3–3.7 m) | always |
 
-- Submit corrections or additional information
-- Provide cultural context and traditional knowledge (with permission)
-- Share academic sources and references
-- Suggest related phenomena
+## Reported Abilities
 
-### Standards
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Stone throwing | Hurls stones from concealed positions at observers or campsites | occasional | reported |
+| Whistling vocalization | Emits unusual whistle sounds | occasional | reported |
+| Camp raiding | Explores campsites after dark, leaving behind large footprints | occasional | reported |
 
-- Cultural sensitivity and respect required
-- Academic rigor expected
-- Proper attribution mandatory
-- Community consultation encouraged
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: tropical rainforest, mountainous forest areas of Sumatra
+- **Diet**: Reported as omnivorous
 
 ---
+## Distribution
 
+Reported from Sumatra, Indonesia, particularly the Rokan area of Riau province. May extend into other forested mountainous areas of Sumatra.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Rokan area, Riau, Sumatra | Riau Province, Sumatra, Indonesia |  |  |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1375-01-01 | Abraham Cresques's Catalan Atlas describes burly men in Sumatra's mountains twelve cubits tall, like giants | Possible earliest historical reference to giant Sumatran humanoids |
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Rokan area footprints |  | Large footprints reportedly found in the Rokan area of Riau, Sumatra — approximately 61 cm (24 inches) long and 20 cm (8 inches) wide with an unusually large big toe. | unverified |
+
+---
+## Theories & Explanations
+
+### Scientific
+
+**Undescribed giant primate** _(Some cryptozoological researchers)_
+
+The Orang Gadang represents an undescribed giant primate species surviving in Sumatra's remote forests — an extremely large hominid analogous to the proposed Gigantopithecus survival hypothesis applied in North American Bigfoot research.
+
+### Skeptical
+
+**Misidentification and exaggeration** _(Mainstream zoologists)_
+
+Reports likely reflect misidentification of known large animals (sun bears, orangutans, large humans) in forest conditions where size assessment is difficult, combined with cultural exaggeration and the Bigfoot template introduced through media.
+
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Data:** CC0-1.0 (Public Domain)
-- **Documentation:** CC-BY-4.0 (Attribution Required)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Metadata
-
-```json
-{
-  "id": "orang-gadang",
-  "name": "Orang Gadang",
-  "category": "CRYPTID",
-  "region": "Indonesia",
-  "culture": "Indonesian",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14"
-}
-```
-
----
-
-**Note:** This documentation presents the Orang Gadang phenomenon respectfully within its cultural context. The information is compiled from various sources and represents both traditional knowledge and academic study. Always approach cultural traditions with respect and sensitivity.
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
